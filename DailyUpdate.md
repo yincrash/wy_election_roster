@@ -1,60 +1,46 @@
-# Daily Update — 2026-05-20
+# Daily Update — 2026-05-21
 
-Comparison against the previously committed roster (last update filed through 05/19/2026).
+Comparison against the previously committed roster (last update filed through 05/20/2026).
 
 ## Summary
 
-- **Added:** 7 candidates
+- **Added:** 4 candidates
 - **Withdrawn / Removed:** 0 candidates
 
 ### Added by Party
 
 | Party | Count |
 | --- | --- |
-| Republican | 5 |
-| Democratic | 2 |
+| Republican | 3 |
+| Democratic | 1 |
 
 ### Added by Race Type
 
 | Race Type | Count |
 | --- | --- |
-| US Senate | 0 |
-| US House | 1 |
-| Statewide | 1 |
-| State Legislative | 5 |
+| US Senate | 1 |
+| US House | 0 |
+| Statewide | 0 |
+| State Legislative | 3 |
 
 ## New Filings
 
-### US House
+### US Senate
 
-- **Stephen Albert Friess** (REP) — United States Representative — filed 05/19/2026
-  - 1914 Thomes Ave Ste 2 #118, Cheyenne WY 82001 · 307-200-8731 · info@friessforwy.com · https://friessforwy.com/
-
-### Statewide
-
-- **Robert Short** (REP) — Secretary of State — filed 05/20/2026
-  - P O Box 906, Douglas WY 82633 · 307-267-2389 · robert@shortforstate.com
+- **Billy Benavidez** (DEM) — United States Senator — filed 05/20/2026
+  - 726 Long Dr Apt 29, Sheridan WY 82801 · 307-533-6211 · emhprocleaning@gmail.com
 
 ### State Senate
 
-- **Ken Pendergraft** (REP) — State Senator 21 — filed 05/20/2026
-  - 459 W Burkitt St, Sheridan WY 82801 · 307-461-2436 · kpendy62@gmail.com · kenpendergraft.com
+- **Daniel J. Singh** (REP) — State Senator 31 — filed 05/21/2026
+  - P.O. Box 22106, Cheyenne WY 82003 · 307-275-0903 · singh4wyoming@gmail.com · singhforwyoming.com
 
 ### State House
 
-- **Tomi Strock** (REP) — State Representative 06 — filed 05/20/2026
-  - 125 Cherokee Trl, Douglas WY 82633 · 307-359-1120 · tomi.strock@gmail.com
-- **Elizabeth "Liz" Storer** (DEM) — State Representative 23 — filed 05/20/2026
-  - P.O. Box 7974, Jackson WY 83002 · 307-421-4711 · liz@storerforstatehouse.com · storerforstatehouse.com
-- **Keenan Morgan** (DEM) — State Representative 58 — filed 05/20/2026
-  - 2340 Lakota Trl, Bar Nunn WY 82601 · 307-262-2002 · k.morgan.44307@gmail.com · linktr.ee/morganforwyoming58
-- **Andrew Server** (REP) — State Representative 61 — filed 05/19/2026
-  - 2005 Appaloosa Dr, Cheyenne WY 82001 · 307-222-3251 · serverforwy@gmail.com · serverforwy.com
-
-## Updated Filings
-
-- **Ana Cordova** (DEM) — Superintendent of Public Instruction — contact info updated
-  - Phone: 307-214-9565 → 307-316-2638
+- **Carlin Jones** (REP) — State Representative 28 — filed 05/20/2026
+  - 203 1st St S, Otto WY 82434 · 307-302-0245 · cjonesforwyoming@gmail.com · cjonesforwyoming.com
+- **Christopher R Knapp** (REP) — State Representative 53 — filed 05/21/2026
+  - 1134 E 12th St, Gillette WY 82716 · 307-660-4566 · copychris@vcn.com
 
 ## Withdrawn Filings
 
