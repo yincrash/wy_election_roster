@@ -1,6 +1,6 @@
-# Daily Update — 2026-05-26
+# Daily Update — 2026-05-27
 
-Comparison against the previously committed roster (the 05/22/2026 update).
+Comparison against the previously committed roster (the 05/26/2026 update).
 
 ## Summary
 
@@ -19,42 +19,39 @@ Comparison against the previously committed roster (the 05/22/2026 update).
 | Race Type | Count |
 | --- | --- |
 | US Senate | 0 |
-| US House | 2 |
-| Statewide | 0 |
+| US House | 0 |
+| Statewide | 2 |
 | State Legislative | 6 |
 
 ## New Filings
 
-### US House
+### Statewide
 
-- **Bo Biteman** (REP) — United States Representative — filed 05/26/2026
-  - Full name: Dennis "Bo" Dean Biteman II
-  - P.O. Box 283, Ranchester WY 82839 · 307-477-4626 · bo@bobiteman.com · www.bobiteman.com · ballot name "Bo Biteman"
-- **Chuck Gray** (REP) — United States Representative — filed 05/26/2026
-  - Full name: Charles Jan Gray
-  - P O Box 50415, Casper WY 82605 · 307-251-1372 · info@chuckforwyoming.com · chuckforwyoming.com · ballot name "Chuck Gray"
+- **Curt Blake** (REP) — Governor — filed 05/26/2026
+  - Full name: Curt Norman Blake
+  - P.O. Box 324, Centennial WY 82055 · 307-742-6944 · betterwithblake@gmail.com · ballot name "Curt Blake"
+- **Scott Smith** (REP) — State Treasurer — filed 05/27/2026
+  - Full name: Scott Smith Jr
+  - P.O. Box 483, Lingle WY 82223 · 307-575-3742 · scott.smith.wyo@gmail.com · www.smithforwy.com · ballot name "Scott Smith"
 
 ### State Senate
 
-- **Ogden Driskill** (REP) — State Senator 01 — filed 05/22/2026
-  - Full name: William Ogden Driskill
-  - P.O. Box 155, Devils Tower WY 82714 · 307-680-5555 · wyomingcowboy77@gmail.com · ogdendriskill.com · ballot name "Ogden Driskill"
-- **Lisa Engebretsen** (REP) — State Senator 29 — filed 05/26/2026
-  - Full name: Lisa L. Engebretsen
-  - 2240 W 43rd St, Casper WY 82604 · 307-262-9740 · lisa@forefrontrealtors.com · ballot name "Lisa Engebretsen"
+- **Roy Birt** (REP) — State Senator 06 — filed 05/27/2026
+  - P O Box 191, Wheatland WY 82201 · 307-331-0378 · royjbirt@gmail.com · ballot name "Roy Birt"
+- **Shifa Hamid** (DEM) — State Senator 31 — filed 05/26/2026
+  - P. O. Box 2986, Cheyenne WY 82003 · 307-274-8309 · sjhamid.2@gmail.com · https://www.laramiecountydemocrats.org/ · ballot name "Shifa Hamid"
 
 ### State House
 
-- **Stewart McAdoo** (DEM) — State Representative 36 — filed 05/25/2026
-  - Full name: John Stewart McAdoo
-  - 3831 Swanton Ave, Casper WY 82609 · 307-215-5721 · mcadoodistrict36@gmail.com · mcadoofordistrict36.com · ballot name "Stewart McAdoo"
-- **Art Washut** (REP) — State Representative 36 — filed 05/26/2026
-  - Full name: Arthur Lyle Washut
-  - 4031 Crystie Ln, Casper WY 82609 · 307-251-4725 · art.washutforhouse36@gmail.com · artwashutforhouse36.com · ballot name "Art Washut"
-- **Michael Bechtel** (REP) — State Representative 43 — filed 05/26/2026
-  - 913 Taft Avenue Ave, Cheyenne WY 82001 · 307-640-2679 · mbechtel5@gmail.com · ballot name "Michael Bechtel"
-- **Darin McCann** (REP) — State Representative 48 — filed 05/25/2026
-  - 532 Quadrant Dr., Rock Springs WY 82901 · 307-899-2270 · mccann4wyhd48@gmail.com · https://www.mccann4wyhd48.com/ · ballot name "Darin McCann"
+- **Emily Study** (REP) — State Representative 14 — filed 05/26/2026
+  - P.O. Box 664, Laramie WY 82072 · 307-310-4471 · study4wyoming@gmail.com · ballot name "Emily Study"
+- **Tony Locke** (REP) — State Representative 35 — filed 05/27/2026
+  - 1438 Luker Dr, Casper WY 82609 · 307-277-9906 · tony@lockeforwyo.com · lockeforwyo.com · ballot name "Tony Locke"
+- **Vincent Vanata** (REP) — State Representative 50 — filed 05/27/2026
+  - 3419 Sandbak Ave, Cody WY 82414 · 307-250-5639 · vincevanata4hd50@gmail.com · ballot name "Vince Vanata"
+- **Kevin J. Campbell** (REP) — State Representative 62 — filed 05/27/2026
+  - Full name: Kevin John Campbell
+  - P.O. Box 83, Glenrock WY 82637 · 307-267-2038 · kevin.highcountry@gmail.com · ballot name "Kevin J. Campbell"
 
 ## Withdrawn Filings
 
