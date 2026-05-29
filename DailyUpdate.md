@@ -1,18 +1,17 @@
-# Daily Update — 2026-05-28
+# Daily Update — 2026-05-29
 
-Comparison against the previously committed roster (the 05/27/2026 update).
+Comparison against the previously committed roster (the 05/28/2026 update).
 
 ## Summary
 
-- **Added:** 13 candidates
+- **Added:** 8 candidates
 - **Withdrawn / Removed:** 0 candidates
-- **Other changes:** 1 phone number update (Daniel J. Singh, State Senator 31 REP)
 
 ### Added by Party
 
 | Party | Count |
 | --- | --- |
-| Republican | 12 |
+| Republican | 7 |
 | Democratic | 1 |
 
 ### Added by Race Type
@@ -20,62 +19,37 @@ Comparison against the previously committed roster (the 05/27/2026 update).
 | Race Type | Count |
 | --- | --- |
 | US Senate | 0 |
-| US House | 1 |
-| Statewide | 3 |
-| State Legislative | 9 |
+| US House | 2 |
+| Statewide | 0 |
+| State Legislative | 6 |
 
 ## New Filings
 
 ### US House
 
-- **David Giralt** (REP) — United States Representative — filed 05/28/2026
-  - Full name: David Anthony Giralt
-  - P.O. Box 701, Mills WY 82644 · 307-277-4617 · david@davidgiralt.com · davidgiralt.com · ballot name "David Giralt"
-
-### Statewide
-
-- **Jason Fearneyhough** (REP) — Secretary of State — filed 05/27/2026
-  - 5815 Syracuse Road, Cheyenne WY 82009 · 307-421-5990 · fearneyhoughforwyoming@gmail.com · ballot name "Jason Fearneyhough"
-- **Qwenton Eagle Oviatt** (REP) — Secretary of State — filed 05/28/2026
-  - Full name: Qwenton Eagle Oviatt
-  - P.O. Box 391, Hudson WY 82515 · 307-760-7524 · qeowyo@gmail.com · oviatt4wyoming.com · ballot name "Oviatt, Qwenton Eagle"
-- **CJ Young** (REP) — Secretary of State — filed 05/28/2026
-  - Full name: Charles C Young II
-  - P.O. Box 4103, Cheyenne WY 82003 · 307-317-1133 · cj.young@cjyoungforwyoming.com · cjyoungforwyoming.com · ballot name "CJ Young"
+- **Richard Dodson** (REP) — United States Representative — filed 05/29/2026
+  - P.O. Box 754, Sundance WY 82729 · 307-228-5865 · helpdeskgeek@yahoo.com
+- **Keith B. Goodenough** (REP) — United States Representative — filed 05/29/2026
+  - P.O. Box 1852, Casper WY 82602-1852 · 307-237-3114 · senatorgoodenough@gmail.com
 
 ### State Senate
 
-- **Chip Neiman** (REP) — State Senator 01 — filed 05/28/2026
-  - P.O. Box 116, Hulett WY 82720 · 307-290-0366 · cneiman66@gmail.com · neiman4wy.com · ballot name "Chip Neiman"
-- **Jen Hegeman** (REP) — State Senator 15 — filed 05/27/2026
-  - Full name: Jennie Kathleen Hegeman
-  - 485 Miller Ave, Evanston WY 82930 · 307-369-7099 · hegemanforsenate@gmail.com · ballot name "Jen Hegeman"
+- **Lisa Wilson** (REP) — State Senator 25 — filed 05/29/2026
+  - 404 N 1st St, Lander WY 82520 · 307-438-9384 · lisa@lisawilsonforsd25.com
 
 ### State House
 
-- **Kelly Bates** (REP) — State Representative 10 — filed 05/28/2026
-  - Full name: Kelly O Bates
-  - 1778 Road 146, Burns WY 82053 · 307-314-8475 · kbates0101@gmail.com · ballot name "Kelly Bates"
-- **Nina Webber** (REP) — State Representative 24 — filed 05/28/2026
-  - 1108 14th Street Suite 108, Cody WY 82414 · 307-921-8593 · ninawhd24@gmail.com · ninawebber.com · ballot name "Nina Webber"
-- **Theresa Livingston** (DEM) — State Representative 27 — filed 05/28/2026
-  - Full name: Theresa Anne Livingston
-  - 905 Culbertson Ave, Worland WY 82401 · 307-529-0860 · livingston4wyoming@gmail.com · ballot name "THERESA LIVINGSTON"
-- **Roland Luehne** (REP) — State Representative 28 — filed 05/28/2026
-  - Full name: Roland Wolfggany Luehne
-  - P O Box 627, Thermopolis WY 82443 · 307-921-1776 · rluehne@gmail.com · ballot name "Roland Luehne"
-- **Levi Asay** (REP) — State Representative 50 — filed 05/28/2026
-  - 1535 Bleistein Ave, Cody WY 82414 · 307-272-7297 · levi@asayforwyoming.com · asayforwyoming.com · ballot name "Levi Asay"
-- **Pete Fox** (REP) — State Representative 56 — filed 05/27/2026
-  - 6211 S Walnut St, Casper WY 82601 · 832-561-6050 · foxpb2@proton.me · petefoxhd56.com · ballot name "Pete Fox"
-- **Seth Bard** (REP) — State Representative 61 — filed 05/28/2026
-  - Full name: Seth Michael Bard
-  - 4720 Long Branch Loop, Cheyenne WY 82001 · 307-222-8384 · bardforhouse@gmail.com · ballot name "Seth Bard"
+- **Gavin Lobmeyer** (DEM) — State Representative 07 — filed 05/28/2026
+  - 500 Sierra Dr, Cheyenne WY 82009 · 307-228-0154 · vote@gavinforwyoming.com · gavinforwyoming.com
+- **Joe Webb** (REP) — State Representative 19 — filed 05/28/2026
+  - P.O. Box 1224, Lyman WY 82937 · 307-747-3282 · joewebbforhd19@gmail.com · www.joewebbforhd19.com
+- **Ryan Koltiska** (REP) — State Representative 30 — filed 05/28/2026
+  - 1765 Edwards Dr, Sheridan WY 82801 · 307-461-4230 · ryan@koltiskaforsheridan.com · www.koltiskaforsheridan.com
+- **Robert L. Hendry** (REP) — State Representative 38 — filed 05/28/2026
+  - 34645 Badwater Rd, Lysite WY 82642 · 307-259-6203 · rhendry76@outlook.com
+- **Jeff Martin** (REP) — State Representative 54 — filed 05/28/2026
+  - 15 Gale Dr, Lander WY 82520 · 307-714-0014 · jmartinforhouse54@gmail.com
 
 ## Withdrawn Filings
 
 None.
-
-## Other Updates
-
-- **Daniel J. Singh** (REP) — State Senator 31 — contact phone updated from 307-275-0903 to 307-274-3909.
