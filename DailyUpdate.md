@@ -1,6 +1,6 @@
-# Daily Update — 2026-06-03
+# Daily Update — 2026-06-04
 
-Comparison against the previously committed roster (the 06/02/2026 update). The
+Comparison against the previously committed roster (the 06/03/2026 update). The
 candidate filing deadline (05/29/2026) has passed, so the roster is now changing
 only through withdrawals and corrections.
 
@@ -8,7 +8,7 @@ only through withdrawals and corrections.
 
 - **Added:** 0 candidates
 - **Withdrawn / Removed:** 0 candidates
-- **Corrections:** 1
+- **Corrections:** 2
 
 ### Added by Party
 
@@ -37,5 +37,14 @@ None.
 
 ## Corrections
 
-- **Qwenton Eagle Oviatt** (REP) — Secretary of State — ballot name format
-  corrected from `Oviatt, Qwenton Eagle` to `Qwenton Eagle Oviatt`.
+- **Ted Hanlon** (DEM) — State Senator District 05 — contact information updated:
+  campaign telephone changed from `307-274-8309` to `307-275-9556`, email changed
+  from `THEODORE.HANLON@GMAIL.COM` to `TED@HANLON4WYOMING.COM`, and a web address
+  was added (`HANLO4WYOMING.COM`).
+- **Lisa Wilson** (REP) — State Senator District 25 — email changed from
+  `LISA@LISAWILSONFORSD25.COM` to `LISAWILSONFORSD25@GMAIL.COM`.
+
+> Note: The source file from the Secretary of State re-introduced unescaped
+> double quotes in the nickname fields for **Dennis "Bo" Biteman** (US House) and
+> **Richard "RJ" Lennox** (State Representative 46). These CSV quoting errors were
+> kept corrected in the committed roster and are not counted as candidate changes.
