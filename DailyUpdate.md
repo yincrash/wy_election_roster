@@ -1,13 +1,13 @@
-# Daily Update — 2026-06-08
+# Daily Update — 2026-06-09
 
-Comparison against the previously committed roster (the 06/04/2026 update). The
+Comparison against the previously committed roster (the 06/08/2026 update). The
 candidate filing deadline (05/29/2026) has passed, so the roster is now changing
 only through withdrawals and corrections.
 
 ## Summary
 
 - **Added:** 0 candidates
-- **Withdrawn / Removed:** 0 candidates
+- **Withdrawn / Removed:** 1 candidate (1 REP)
 - **Corrections:** 2
 
 ### Added by Party
@@ -16,7 +16,7 @@ None.
 
 ### Withdrawn by Party
 
-None.
+- **REP:** 1
 
 ### Change by Race Type
 
@@ -25,7 +25,7 @@ None.
 | US Senate | 0 | 0 |
 | US House | 0 | 0 |
 | Statewide | 0 | 0 |
-| State Legislative | 0 | 0 |
+| State Legislative | 0 | 1 |
 
 ## New Filings
 
@@ -33,19 +33,22 @@ None.
 
 ## Withdrawn Filings
 
-None.
+- **Kelly O. Bates** (REP) — State Representative District 10 — removed from the
+  roster. Originally filed 05/28/2026; mailing address 1778 Road 146, Burns WY
+  82053; phone 307-314-8475; email KBATES0101@GMAIL.COM. The candidate row was
+  dropped entirely from the Secretary of State's file (no withdrawal date was
+  recorded on the row).
 
 ## Corrections
 
-- **Lisa Kinney** (DEM) — United States Representative — mailing address
-  normalized from `P. O. BOX 1710` to `P.O. BOX 1710`.
-- **Deb Mutter-Shamley** (REP) — State Representative 07 — contact information
-  updated: campaign telephone changed from `307-286-4332` to `(307) 630-6508`,
-  and email changed from `DEB.MUTTER@ICLOUD.COM` to
-  `VOTEDEBSHAMLEYHD07@GMAIL.COM`.
+- **Dennis "Bo" Biteman** (REP) — United States Representative — the source file
+  again re-introduced unescaped double quotes in the nickname field
+  (`DENNIS "BO"` instead of `DENNIS ""BO""`). Kept corrected in the committed
+  roster.
+- **Richard "RJ" Lennox** (REP) — State Representative 46 — the source file
+  again re-introduced unescaped double quotes in the ballot name field
+  (`Richard "RJ" Lennox` instead of `Richard ""RJ"" Lennox`). Kept corrected in
+  the committed roster.
 
-> Note: The source file from the Secretary of State again re-introduced
-> unescaped double quotes in the nickname fields for **Dennis "Bo" Biteman**
-> (US House) and **Richard "RJ" Lennox** (State Representative 46). These CSV
-> quoting errors were kept corrected in the committed roster and are not counted
-> as candidate changes.
+> Note: These CSV quoting errors are recurring artifacts from the Secretary of
+> State's export and are not counted as candidate changes.
