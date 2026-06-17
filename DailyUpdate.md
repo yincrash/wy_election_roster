@@ -1,6 +1,6 @@
-# Daily Update — 2026-06-11
+# Daily Update — 2026-06-17
 
-Comparison against the previously committed roster (the 06/09/2026 update). The
+Comparison against the previously committed roster (the 06/11/2026 update). The
 candidate filing deadline (05/29/2026) has passed, so the roster is now changing
 only through withdrawals and corrections.
 
@@ -24,8 +24,8 @@ None.
 | --- | --- | --- |
 | US Senate | 0 | 0 |
 | US House | 0 | 0 |
-| Statewide | 0 | 0 |
-| State Legislative | 0 | 1 |
+| Statewide | 0 | 1 |
+| State Legislative | 0 | 0 |
 
 ## New Filings
 
@@ -33,12 +33,13 @@ None.
 
 ## Withdrawn Filings
 
-- **Richard "RJ" Lennox** (REP) — State Representative District 46 — removed from
-  the roster. Full name Richard John Lennox Jr.; originally filed 05/29/2026;
-  mailing address P.O. Box 4012, Cheyenne WY 82003; phone 307-287-8999; email
-  RJABADAN@YAHOO.COM. The candidate row was dropped entirely from the Secretary
-  of State's file (no withdrawal date was recorded on the row). This leaves
-  State Representative District 46 (Republican) with Ocean Andrew and Cam Wright.
+- **Jason Fearneyhough** (REP) — Secretary of State — removed from the roster.
+  Originally filed 05/27/2026; mailing address 5815 Syracuse Road, Cheyenne WY
+  82009; phone 307-421-5990; email FEARNEYHOUGHFORWYOMING@GMAIL.COM. The
+  candidate row was dropped entirely from the Secretary of State's file (no
+  withdrawal date was recorded on the row). This leaves the Republican Secretary
+  of State primary with Qwenton Eagle Oviatt, Rachel Williams
+  (Rodriguez-Williams), Robert Short, and CJ Young.
 
 ## Corrections
 
