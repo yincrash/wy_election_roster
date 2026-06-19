@@ -1,14 +1,14 @@
-# Daily Update — 2026-06-18
+# Daily Update — 2026-06-19
 
-Comparison against the previously committed roster (the 06/11/2026 update). The
+Comparison against the previously committed roster (the 06/18/2026 update). The
 candidate filing deadline (05/29/2026) has passed, so the roster is now changing
 only through withdrawals and corrections.
 
 ## Summary
 
 - **Added:** 0 candidates
-- **Withdrawn / Removed:** 1 candidate (1 REP)
-- **Corrections:** 1
+- **Withdrawn / Removed:** 0 candidates
+- **Field updates / Corrections:** 1 (plus the recurring CSV quoting fix)
 
 ### Added by Party
 
@@ -16,7 +16,7 @@ None.
 
 ### Withdrawn by Party
 
-- **REP:** 1
+None.
 
 ### Change by Race Type
 
@@ -24,7 +24,7 @@ None.
 | --- | --- | --- |
 | US Senate | 0 | 0 |
 | US House | 0 | 0 |
-| Statewide | 0 | 1 |
+| Statewide | 0 | 0 |
 | State Legislative | 0 | 0 |
 
 ## New Filings
@@ -33,20 +33,20 @@ None.
 
 ## Withdrawn Filings
 
-- **Jason Fearneyhough** (REP) — Secretary of State — removed from the roster.
-  Originally filed 05/27/2026; mailing address 5815 Syracuse Road, Cheyenne WY
-  82009; phone 307-421-5990; email FEARNEYHOUGHFORWYOMING@GMAIL.COM. The
-  candidate row was dropped entirely from the Secretary of State's file (no
-  withdrawal date was recorded on the row). This leaves the Secretary of State
-  (Republican) primary with Qwenton Eagle Oviatt, Rachel Rodriguez-Williams,
-  and Robert Short.
+None.
 
-## Corrections
+## Corrections / Field Updates
+
+- **Pepper L Ottman** (REP) — State Representative 34 — the source file updated
+  the contact email on this existing candidate's row from
+  `PEPPER.OTTMAN@WYOLEG.GOV` to `PEPPER.OTTMAN@GMAIL.COM`. No other fields
+  changed; this is not a candidate addition or removal. Updated to match the
+  current source in the committed roster.
 
 - **Dennis "Bo" Biteman** (REP) — United States Representative — the source file
   again re-introduced unescaped double quotes in the nickname field
   (`DENNIS "BO"` instead of `DENNIS ""BO""`). Kept corrected in the committed
   roster.
 
-> Note: This CSV quoting error is a recurring artifact from the Secretary of
-> State's export and is not counted as a candidate change.
+> Note: The Biteman CSV quoting error is a recurring artifact from the Secretary
+> of State's export and is not counted as a candidate change.
